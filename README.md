@@ -27,5 +27,5 @@ LIBRARIES:
 Update info (Not Important / 29-Sep-2020):
  
 This project was made between 2018-2019, by that time my coding skills weren't that got so it lacks pretty much in info on the script and extra info, as I mentioned before, it is outdated, so since now I don't have a lot of time I won't update it, once I got time I will.
-Understanding the script shouldn't be that hard since it is a pretty simple program. I will do my best to update this as soon as I'm able.
+Understanding the script shouldn't be that hard since it is a pretty simple program. I will do my best to update this as soon as I'm able to.
 
